@@ -1,5 +1,5 @@
 
-Live : <a href="https://cashWithdrawals.ccbp.tech">click</a>
+Live : <a href="https://cashWithdrawals.ccbp.tech" target="_blank">click</a>
 
 ### Refer to the image below:
 
